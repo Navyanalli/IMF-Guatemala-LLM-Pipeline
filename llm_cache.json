@@ -1,0 +1,296 @@
+{
+  "c54115e33e8b736b96f9bd314f0ad43d69592db2e56490efe4b98a63db715041": {
+    "text": "ready",
+    "model": "gemini-3.5-flash",
+    "latency": 1.1,
+    "role": "extract"
+  },
+  "f83d8a7fa99b6c409a9cf08557f7e6351fa017682158a1930dd83ef06c9ecedb": {
+    "text": "Ready",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 0.53,
+    "role": "judge"
+  },
+  "b94d723f9087ca98a527bd96b62344f25bac8c5b3f981deefc1f398f057b6431": {
+    "text": "{\n  \"notes\": [\n    \"Economic activity expanded 4.5 percent y/y through April 2026, though 2026 growth is projected to dip to 3.8 percent due to oil shocks.\",\n    \"Headline inflation reached 2.9 percent y/y in May 2026, up from 1.7 percent at end-2025, with core inflation remaining well anchored.\",\n    \"The 2025 current account surplus reached 4.7 percent of GDP, supported by record-high remittances at 21 percent of GDP.\",\n    \"Public debt is low and sustainable at 27 percent of GDP, while the 2025 fiscal deficit widened to 1.9 percent of GDP.\",\n    \"Net International Reserves (NIR) reached 203.2 percent of the ARA metric in 2025, with gross reserves at US$32.7 billion.\",\n    \"Credit to the private sector grew 7.6 percent in 2025, while M2 expanded by 13.4 percent.\",\n    \"Financial stability risks include El Niño, energy price volatility, and domestic implementation constraints on public infrastructure.\",\n    \"Key recommendations include adopting IFRS accounting, revamping the 2002 Law on Banks, and fast-tracking a secondary markets law.\",\n    \"The new AML/CFT law was approved, but swift passage of accompanying regulations is required for the 2027 GAFILAT evaluation.\"\n  ],\n  \"summary\": \"Guatemala’s economy grew 4.5 percent y/y through April 2026, with 2026 growth projected at 3.8 percent. Sound fundamentals include a 2025 current account surplus of 4.7 percent of GDP and low public debt at 27 percent. Inflation reached 2.9 percent in May 2026. Risks include El Niño and oil shocks. Staff recommend adopting IFRS, passing a secondary markets law, and implementing the new AML/CFT law. Infrastructure gaps and high remittances (21 percent of GDP in 2025) remain key challenges.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 15.4,
+    "role": "extract"
+  },
+  "9ed47d9526b602cc6b1d1c3a088e118959ec739128b5555c99c55dfdef9f5edb": {
+    "text": "{\n  \"notes\": [\n    \"Prudent macroeconomic management has underpinned resilience with low and stable inflation.\",\n    \"Ample external and fiscal buffers and a current account surplus in recent years support the economy.\",\n    \"Inadequate public infrastructure and social indicators like healthcare and education constrain growth.\",\n    \"High remittance inflows support consumption but prompt costly foreign exchange interventions.\",\n    \"The tradable sector faces price competitiveness pressures and regulatory bottlenecks.\",\n    \"A fragmented Congress and political landscape have historically delayed reform progress.\",\n    \"The recent approval of the AML/CFT law marks an important achievement.\",\n    \"Appointments to the Constitutional Court and Electoral Tribunal have ascertained constitutional order.\"\n  ],\n  \"summary\": \"Guatemala's prudent management ensures low inflation and ample buffers, including a current account surplus in recent years. However, growth is limited by poor infrastructure and social indicators. High remittance inflows support consumption but require costly foreign exchange interventions to manage appreciation pressures. Despite a fragmented Congress, the approval of the AML/CFT law and key judicial appointments have restored legal certainty, enabling the Arevalo administration to focus on addressing constraints to private sector-led growth.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 6.47,
+    "role": "extract"
+  },
+  "fc753cdf39574396f6b1f44699f0e042ab0cb949e45b7954f79b5ac7b89acd54": {
+    "text": "{\n  \"notes\": [\n    \"Guatemala's economic growth reached 4.3 percent in 2025 and continued at 4.5 percent y/y through April 2026.\",\n    \"Banguat kept its policy rate at 3.5 percent after four cuts, having sterilized GTQ9.2 billion (1 percent of GDP) in 2025.\",\n    \"The 2025 fiscal deficit reached 1.9 percent of GDP, leaving public debt sustainable at under 27 percent of GDP at end-2025.\",\n    \"The current account surplus rose to 4.7 percent of GDP in 2025, powered by record remittance inflows of 21 percent of GDP.\",\n    \"International reserves reached US$32.7 billion (26.5 percent of GDP) at end-2025, supported by US$5.3 billion in net FX purchases.\",\n    \"Private sector credit growth decelerated to about 8 percent in 2025, with banking NPLs standing at 2.4 percent and provisioning at 131 percent.\",\n    \"First published stress tests confirmed the banking system's resilience and ability to absorb medium-term shocks.\"\n  ],\n  \"summary\": \"Guatemala’s economy grew 4.3 percent in 2025, with 4.5 percent y/y expansion through April 2026. Inflation reached 2.9 percent y/y in May 2026, with the policy rate on hold at 3.5 percent. The 2025 fiscal deficit reached 1.9 percent of GDP, leaving debt under 27 percent of GDP. Driven by remittances (21 percent of GDP), the current account surplus rose to 4.7 percent of GDP, lifting reserves to US$32.7 billion. Private credit growth slowed to 8 percent in 2025, while banking NPLs stood at 2.4 percent.\"\n}",
+    "model": "gemini-3.5-flash",
+    "latency": 11.65,
+    "role": "extract"
+  },
+  "6ad20188e6a8105ffbfc425d80a0707a87587a6a6111cfcb20ab7b82babf6649": {
+    "text": "{\n  \"notes\": [\n    \"GDP growth is projected at 3.8 percent in 2026, converging to 4 percent in the medium term.\",\n    \"The 2026 fiscal deficit is expected to undershoot the budgeted 3.6 percent of GDP.\",\n    \"Medium-term fiscal deficit is projected to stabilize around 2 1/2 percent of GDP.\",\n    \"An expected loss-based provisioning system for banks is being phased in until 2028.\",\n    \"Inflation is expected to remain within target despite an uptick in 2026.\",\n    \"Domestic risks include legislative fragmentation and institutional capacity constraints.\",\n    \"External risks involve geopolitical tensions, volatile oil prices, and tighter global financial conditions.\",\n    \"Tighter U.S. migration policies could reduce remittances and increase domestic labor market pressures.\",\n    \"Guatemala is highly vulnerable to climate shocks, including a severe 2026–27 El Niño.\"\n  ],\n  \"summary\": \"Guatemala’s outlook is favorable, with 2026 growth projected at 3.8 percent, converging to 4 percent. Inflation remains within target despite a 2026 uptick. The fiscal deficit should undershoot the budgeted 3.6 percent of GDP in 2026, stabilizing at 2 1/2 percent. Risks include legislative fragmentation, U.S. migration policy shifts affecting remittances, and a 2026–27 El Niño. Authorities forecast 2026 growth around 4 percent. Financial stability is supported by expected loss-based provisioning phased in until 2028.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 13.9,
+    "role": "extract"
+  },
+  "cc05b9af7b3be2355dae8bc513dee025cd729584adf0ee7a2b7d2f348d10a58e": {
+    "text": "{\n  \"notes\": [\n    \"The 2026 budget allocates a record 3.6 percent of GDP for capital spending, approximately 1 percentage point above 2022–24 actuals.\",\n    \"MICIVI execution rates remained low at around 70 percent in 2024 and 2025, contributing to persistent infrastructure bottlenecks.\",\n    \"Capital transfers to CODEDEs for 2026 amount to 1 1/2 percent of GDP, representing one-third of all budgeted capital spending.\",\n    \"Staff projects a 2026 fiscal deficit of 2.7 percent of GDP, lower than the authorities' 3.6 percent target due to execution shortfalls.\",\n    \"Tax revenue has hovered near 12 percent of GDP for decades, with a target to reach 12.7 percent by 2030.\",\n    \"The Puerto Quetzal port expansion project (1/2 percent of GDP) is scheduled for completion by 2032.\",\n    \"A temporary universal fuel subsidy carries a contained fiscal cost of approximately 0.2 percent of GDP for up to three months.\",\n    \"Full implementation of IFRS accounting standards for the banking system is expected by 2030.\",\n    \"Structural informality remains a significant challenge, with three-quarters of workers currently in the informal economy.\"\n  ],\n  \"summary\": \"Guatemala is scaling up infrastructure, with the 2026 budget allocating 3.6 percent of GDP to capital spending. Due to low execution—MICIVI averaged 70 percent in 2024 and 2025—staff projects a 2.7 percent deficit. CODEDEs account for 1 1/2 percent of GDP in 2026. Authorities target 12.7 percent tax revenue by 2030. Monetary policy is appropriate despite oil shocks. Key reforms include the 2025 AML/CFT law and IFRS adoption by 2030. Structural challenges persist, with three-quarters of workers remaining informal.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 11.97,
+    "role": "extract"
+  },
+  "77bddcb8792858d386be53b1c62b2e1c981e8321bbe78d9a823ff695d6022b5b": {
+    "text": "{\n  \"notes\": [\n    \"Strong macroeconomic fundamentals include low and stable inflation, solid fiscal buffers, and current account surpluses.\",\n    \"Medium-term fiscal consolidation aims to reduce fiscal deficits to 2 percent of GDP while maintaining capital and social spending.\",\n    \"Fiscal revenues should be increased above 12 percent of GDP through comprehensive tax reforms and administration gains.\",\n    \"External risks include high energy prices, tighter migration policies, and a severe near-term El Niño risk.\",\n    \"Financial stability measures include adopting IFRS accounting and revamping the 2002 Law on Banks and Financial Groups.\",\n    \"The new AML/CFT law, aligned with FATF standards, prepares the country for the 2027 GAFILAT mutual evaluation.\",\n    \"The Integrity and Corruption Prevention Strategy 2025–32 and a new secondary markets law are key for governance and market depth.\",\n    \"Monetary policy transmission should be strengthened by narrowing the policy corridor and streamlining term-deposit maturities.\"\n  ],\n  \"summary\": \"Guatemala’s strong fundamentals and buffers provide resilience against risks like El Niño and high energy prices. To enhance growth, authorities should scale up infrastructure and raise revenues above 12 percent of GDP. Medium-term consolidation should target a 2 percent of GDP deficit. Key financial priorities include adopting IFRS, revamping the 2002 Law on Banks, and implementing the AML/CFT law ahead of the 2027 GAFILAT evaluation. Strengthening secondary markets and the Integrity and Corruption Prevention Strategy 2025–32 will further support stability.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 7.11,
+    "role": "extract"
+  },
+  "3b2f99895ca34a5e7a3c170e0bfc933b100039741db9e25c468e2445efc907de": {
+    "text": "{\n  \"notes\": [\n    \"A 50 percent global oil price increase raises headline inflation by 1.2 percentage points after 18 months.\",\n    \"Large oil price shocks reduce economic activity by 0.5–0.6 percentage points within the first 12 months.\",\n    \"CODEDE allocations tripled since 2023, reaching 1 1/2 percent of GDP in 2026.\",\n    \"Extraordinary CODEDE allocations rose from 0.2 percent of GDP in 2024 to 0.6 percent in 2026.\",\n    \"CODEDE execution rates were low at 52 percent in 2024 and 62 percent in 2025.\",\n    \"Unexecuted CODEDE rollovers account for 30 percent of the total 2026 allocation.\",\n    \"Labor informality reached 75.9 percent in 2024 despite a low 7 percent top statutory income tax rate.\",\n    \"Labor-related government revenue is 2.9 percent of GDP, with 2.2 percent from social security.\",\n    \"Domestic policy rate response to U.S. rate changes is less than one-for-one.\",\n    \"Cumulated real export growth reached 10 percent between 2013 and 2023.\",\n    \"The export quality (EXPY) index grew by 9 percent over the 2013-2023 period.\",\n    \"New products contributed only 0.3 percentage points to total export growth.\"\n  ],\n  \"summary\": \"Guatemala faces inflationary risks from oil price shocks, where a 50 percent price surge adds 1.2 percentage points to inflation. Fiscal risks include CODEDE allocations reaching 1 1/2 percent of GDP in 2026, despite low 52 percent execution in 2024. Labor informality remains high at 75.9 percent in 2024, while labor-related revenue is just 2.9 percent of GDP. Export quality (EXPY) grew 9 percent (2013-2023), though new product contributions remain low at 0.3 percentage points. Reserve buffers support monetary policy autonomy.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 7.86,
+    "role": "extract"
+  },
+  "d5e230364c38c4e192c6f8f2709125a9e320a35bd8905cafd957ff553b95ec2a": {
+    "text": "{\n  \"notes\": [\n    \"Real GDP growth reached 4.3% in 2025, with a projected 3.8% for 2026.\",\n    \"The current account surplus rose to 4.7% of GDP in 2025, driven by historically high remittances at 20.7% of GDP.\",\n    \"Net International Reserves (NIR) reached US$30.9 billion at end-2025, representing 203% of the ARA metric.\",\n    \"Central government debt is projected to rise to 27.4% of GDP in 2026 from 26.7% in 2025.\",\n    \"The banking sector remains stable with a regulatory capital to risk-weighted assets ratio of 15.5% in 2025.\",\n    \"Nonperforming loans (NPLs) for on-shore banks are projected at 2.4% in 2025, up from 1.8% in 2023.\",\n    \"The Bank of Guatemala lowered the policy rate to 3.5% by February 2026 following four consecutive cuts.\",\n    \"The de facto exchange rate arrangement was reclassified from stabilized to crawl-like in 2025.\",\n    \"Sovereign risk is assessed as moderate, with gross financing needs estimated at 4.2% of GDP in 2026.\",\n    \"The last off-shore bank ceased operations in October 2024.\"\n  ],\n  \"summary\": \"Guatemala's economy showed resilience with real GDP growth of 4.3% in 2025. The external position remains strong, featuring a current account surplus of 4.7% of GDP in 2025, supported by remittances totaling 20.7% of GDP. Net International Reserves reached US$30.9 billion (203% of the ARA metric) by end-2025. While central government debt is projected to rise to 27.4% of GDP in 2026, sovereign risk remains moderate. The banking sector is stable, though NPLs are projected at 2.4% for 2025.\"\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 8.77,
+    "role": "extract"
+  },
+  "514b0debf76d421e3aecad6a9a2692aaf9d18e4d717bac1eae471aceca16c8b4": {
+    "text": "{\n  \"bullets\": [\n    \"The banking sector remains stable with a regulatory capital to risk-weighted assets ratio of 15.5 percent in 2025.\",\n    \"Banking nonperforming loans (NPLs) stood at 2.4 percent in 2025 with a provisioning level of 131 percent.\",\n    \"First published stress tests confirmed the banking system's resilience and ability to absorb medium-term shocks.\",\n    \"Credit to the private sector grew 7.6 percent in 2025, while M2 expanded by 13.4 percent.\",\n    \"Net International Reserves reached 203.2 percent of the ARA metric in 2025, with gross reserves totaling US$32.7 billion.\",\n    \"Financial stability recommendations include the full implementation of IFRS accounting standards by 2030 and revamping the 2002 Law on Banks and Financial Groups.\",\n    \"The approval of a new AML/CFT law prepares the country for the 2027 GAFILAT evaluation, provided accompanying regulations are passed swiftly.\",\n    \"External risks to stability include tighter global financial conditions, volatile oil prices, and a severe 2026–27 El Niño.\",\n    \"Banguat maintained its policy rate at 3.5 percent after four cuts and sterilized GTQ9.2 billion, or 1 percent of GDP, in 2025.\",\n    \"Sovereign risk is assessed as moderate, with gross financing needs estimated at 4.2 percent of GDP in 2026 and public debt sustainable at 27 percent of GDP.\"\n  ]\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 4.9,
+    "role": "extract"
+  },
+  "433b44c36d4eb4433c47b42bc7019af021e2bab5d0c2efc56145091d9efec8fd": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary is fully consistent, complete regarding the main points of the source, and every statistic and claim (such as the 4.5 percent growth through April 2026, 3.8 percent 2026 growth projection, 4.7 percent current account surplus, 27 percent public debt, 2.9 percent inflation in May, and 21 percent remittances) is directly supported by the text in the source documents.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 1.45,
+    "role": "judge"
+  },
+  "e4c0f74c126838459d179db1c8832d5d573b6b5a37394108a99813be4706b912": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary accurately reflects the main points of the source without introducing any unsupported claims, contradictions, or factual inaccuracies.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 1.29,
+    "role": "judge"
+  },
+  "a10fb2bbed175cd2f3d08dbba50acd19d431dd888acc6e432dc0f57fe4d12f51": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary accurately reflects the core facts, figures, and economic indicators presented in the source text without introducing any contradictions or unsupported claims. All mentioned metrics (GDP growth rates, inflation, policy rate, fiscal deficit, debt level, remittances, current account surplus, reserves, private credit growth, and NPLs) are directly supported by the source.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 0.98,
+    "role": "judge"
+  },
+  "5b6b7060d43028fcb9ff6235056f9eaa5970e52936643fc37eba385186231af6": {
+    "text": "{\n  \"consistency\": 4,\n  \"completeness\": 4,\n  \"factual_alignment\": 4,\n  \"unsupported_claims\": [\n    \"Financial stability is supported by expected loss-based provisioning phased in until 2028.\"\n  ],\n  \"rationale\": \"The summary is mostly faithful to the source text, capturing growth projections, inflation, fiscal deficit, and risks well. However, it includes a claim about 'financial stability' supporting the expected loss-based provisioning phased in until 2028 (which is mentioned in a footnote in the source), but connects it directly to 'financial stability' without explicit textual support in the main source body regarding financial stability as the direct reason, making it a minor unsupported extrapolation.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 0.98,
+    "role": "judge"
+  },
+  "53e55ede0c2300701fcdd7698ecad79559dc29c27b46bf6bd372288f4883f857": {
+    "text": "{\"consistency\": 5, \"completeness\": 5, \"factual_alignment\": 5, \"unsupported_claims\": [], \"rationale\": \"The summary is concise, covers the main points of the source accurately, contains no internal contradictions, and every specific figure and claim (e.g., 3.6 percent of GDP for capital spending, 70 percent execution for MICIVI in 2024 and 2025, 2.7 percent deficit, 1 1/2 percent of GDP for CODEDEs in 2026, 12.7 percent tax revenue target by 2030, 2025 AML/CFT law, IFRS adoption by 2030, and three-quarters of workers remaining informal) is fully supported by the source text.\"}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 5.01,
+    "role": "judge"
+  },
+  "2c92b80fd32aaa49015028227220102f878d60d365c0612c41a1fd4a8b041523": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary accurately reflects the main points of the source text, maintaining internal consistency and factual alignment without introducing any unsupported claims.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 0.67,
+    "role": "judge"
+  },
+  "8db783eb1947498a3fe04005de95fdd27c62241feb2de8c3e94341368db7ccad": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary accurately reflects the data points and findings presented in the source text. All figures, including the 50 percent oil price shock impact, CODEDE allocation percentages, labor informality rates, and export growth metrics, are correctly cited from the provided boxes.\"\n}",
+    "model": "gemini-3.1-flash-lite",
+    "latency": 1.08,
+    "role": "judge"
+  },
+  "f378aee201393ac34f861d69eaf506a5b8a76ea19a84dbb53e4857d06e600ae7": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary is fully supported by the provided source text. Real GDP growth of 4.3% in 2025 matches Table 1 and Table 3. The current account surplus of 4.7% of GDP and remittances at 20.7% of GDP in 2025 are found in Table 1 and Annex I. Net International Reserves of US$30.9 billion (203% of the ARA metric) at end-2025 match Table 1, Table 3, and the text in Annex I. Central government debt projected at 27.4% of GDP in 2026 matches Table 1 and Table 2b. Sovereign risk as moderate is supported by Annex III (DSA Summary Assessment). NPLs at 2.4% for 2025 are supported by Table 5 under 'On-shore banks'.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 1.3,
+    "role": "judge"
+  },
+  "b44d7e975364d9e6397587e8109dde72b7c80da6a0f51c8ae0c2c0bb6bad6ab8": {
+    "text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary is concise, fully faithful to the source document, and accurately cites figures such as the regulatory capital ratio (15.5%), NPLs (2.4%), provisioning level (131.2% / rounded to 131%), private sector credit growth (7.6%), M2 growth (13.4%), reserve coverage (203.2% of ARA metric), gross reserves ($32.7 billion), IFRS implementation timeline (2030), Banguat's policy rate (3.5%), sterilized liquidity (GTQ9.2 billion or 1% of GDP), gross financing needs (4.2% of GDP in 2026), and public debt (27% of GDP). No unsupported claims were identified.\"\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 1.59,
+    "role": "judge"
+  },
+  "cfc01db7d092313fbe0ff6f04dd73d76dffd7afe703061ec4ededc295a0ef04a": {
+    "text": "{\n  \"strengths\": [\n    {\n      \"item\": \"Low and sustainable public debt\",\n      \"evidence\": \"Public debt is low and sustainable (27 percent of GDP).\"\n    },\n    {\n      \"item\": \"Strong external position and current account surplus\",\n      \"evidence\": \"The external position further strengthened as 2025 current account surplus reached 4.7 percent of GDP with a record-high remittances at 21 percent of GDP.\"\n    },\n    {\n      \"item\": \"Ample international reserve buffers\",\n      \"evidence\": \"International reserves reached US$32.7 billion at end-2025 (26.5 percent of GDP, 203 percent of the ARA metric), on the back of record-high net foreign exchange purchases (US$5.3 billion) that mirrored the surge in remittances.\"\n    },\n    {\n      \"item\": \"Robust economic growth momentum\",\n      \"evidence\": \"The strong growth momentum has carried into 2026, with economic activity expanding 4.5 percent y/y through April.\"\n    },\n    {\n      \"item\": \"Sound and well-capitalized banking system\",\n      \"evidence\": \"The banking system exhibits strong capitalization and liquidity, while NPLs— concentrated in consumer, microcredit, and mortgage portfolios—stood at 2.4 percent at end-2025.\"\n    },\n    {\n      \"item\": \"Low and stable inflation levels\",\n      \"evidence\": \"End-year inflation stood at 1.7 percent in 2025, broadly unchanged from end-2024, with food, hospitality and education seeing the largest price increases.\"\n    }\n  ],\n  \"vulnerabilities\": [\n    {\n      \"item\": \"Low public infrastructure project execution rates\",\n      \"evidence\": \"MICIVI’s low execution rate—at around 70 percent in 2024 and 2025—underscores the urgent need to address bottlenecks in project preparation, procurement, and contract management.\"\n    },\n    {\n      \"item\": \"High levels of labor market informality\",\n      \"evidence\": \"Formalizing Guatemala’s economy—where some three-quarters of workers remain informal—would ease reintegration of returning migrants and support private-sector growth.\"\n    },\n    {\n      \"item\": \"Stagnant tax revenue mobilization\",\n      \"evidence\": \"Despite measurable gains by the tax administration (SAT)—in tax compliance, digitalization, tax refund governance, and customs modernization—tax revenue has been hovering near 12 percent of GDP for decades.\"\n    },\n    {\n      \"item\": \"Extensive and rigid budget revenue earmarking\",\n      \"evidence\": \"Extensive revenue earmarking— pre-committing between a third and half of all budget revenues—has partially provided predictability for specific sectors and institutions in the absence of medium-term budgeting.\"\n    },\n    {\n      \"item\": \"Widening central government fiscal deficit\",\n      \"evidence\": \"The 2025 fiscal deficit widened to 1.9 percent of GDP, almost 1 percentage point higher than in 2024 but about 2 percentage points below the budgeted 3.8 percent.\"\n    },\n    {\n      \"item\": \"Rapidly expanding and weakly targeted decentralized allocations\",\n      \"evidence\": \"The CODEDE allocation more than tripled since 2023, reaching 1 1/2 percent of GDP in 2026, or roughly one-tenth of all budget spending.\"\n    }\n  ]\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 429.07,
+    "role": "extract"
+  },
+  "debd1c95aa828d7a368fd9d813c6e6aad6c446259caa7de2acdc9e1cabdb8e2c": {
+    "text": "{\n  \"gdp_growth_forecast_pct\": {\n    \"value\": 3.8,\n    \"period\": \"2026\",\n    \"source_quote\": \"Hit by the oil price shock, 2026 growth is projected to dip to 3.8 percent before converging to 4 percent in the medium term as public investment and structural reforms yield returns.\",\n    \"source_type\": \"text\",\n    \"table_row\": null,\n    \"reason\": null\n  },\n  \"headline_inflation_rate_pct\": {\n    \"value\": 2.9,\n    \"period\": \"May 2026\",\n    \"source_quote\": \"Driven by the oil price shocks, headline inflation increased to 2.9 percent y/y in May (1.7 percent at end-2025), with fuel-price subsidies limiting the passthrough.\",\n    \"source_type\": \"text\",\n    \"table_row\": null,\n    \"reason\": null\n  },\n  \"central_bank_policy_rate_pct\": {\n    \"value\": 3.5,\n    \"period\": \"February 2026\",\n    \"source_quote\": \"Four quarter-percentage cuts between mid-2025 and February 2026 lowered the policy rate to 3.5 percent, below that of the U.S. Federal Reserve. Since then, Banguat kept the rate unchanged, reflecting heightened uncertainty, including over commodity prices and U.S. monetary policy.\",\n    \"source_type\": \"text\",\n    \"table_row\": null,\n    \"reason\": null\n  },\n  \"non_performing_loan_ratio\": {\n    \"value\": 2.4,\n    \"period\": \"end-2025\",\n    \"source_quote\": \"The banking system exhibits strong capitalization and liquidity, while NPLs—concentrated in consumer, microcredit, and mortgage portfolios—stood at 2.4 percent at end-2025.\",\n    \"source_type\": \"text\",\n    \"table_row\": null,\n    \"reason\": null\n  },\n  \"unemployment_rate_pct\": {\n    \"value\": null,\n    \"period\": null,\n    \"source_quote\": null,\n    \"source_type\": null,\n    \"table_row\": null,\n    \"reason\": \"The report mentions unemployment qualitatively as a labor market risk but does not state a numerical value for the unemployment rate.\"\n  },\n  \"tier_1_capital_ratio\": {\n    \"value\": null,\n    \"period\": null,\n    \"source_quote\": null,\n    \"source_type\": null,\n    \"table_row\": null,\n    \"reason\": \"Tier 1 capital ratio is not reported in the document; only regulatory capital to risk-weighted assets (15.5 percent at end-2025) is provided, which cannot be substituted for the Tier 1 ratio per instructions.\"\n  }\n}",
+    "model": "gemini-3.7-flash",
+    "latency": 92.39,
+    "role": "extract"
+  },
+  "f10659b308c9332f0aa5165fa26cffad0f934363924361099ddcf46b1795e112": {
+    "text": "{\n  \"series\": [\n    {\n      \"series\": \"Real GDP Growth\",\n      \"unit\": \"Annual percent change\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Real GDP\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [3.5, 3.7, 4.3, 3.8, 3.8, 3.9, 3.9, 3.9, 3.9],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Headline CPI Inflation (Average)\",\n      \"unit\": \"Annual percent change\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Consumer prices (average)\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [6.2, 2.9, 1.6, 3.7, 3.7, 3.7, 3.8, 4.0, 4.0],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Private Sector Credit Growth\",\n      \"unit\": \"Annual percent change\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Credit to the private sector\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [14.9, 12.3, 7.6, 8.1, 10.1, 9.7, 9.3, 9.2, 9.1],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Non-performing loans ratio\",\n      \"unit\": \"Percent\",\n      \"table\": \"Table 5. Guatemala: Financial Soundness Indicators\",\n      \"row_label\": \"Nonperforming loans to total gross loans\",\n      \"years\": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],\n      \"values\": [1.4, 2.1, 2.3, 2.2, 2.2, 1.8, 1.7, 1.3, 1.8, 2.5, 2.4],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Regulatory capital to risk-weighted assets\",\n      \"unit\": \"Percent\",\n      \"table\": \"Table 5. Guatemala: Financial Soundness Indicators\",\n      \"row_label\": \"Regulatory capital to risk-weighted assets\",\n      \"years\": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],\n      \"values\": [14.1, 13.8, 14.7, 14.8, 15.5, 16.1, 17.3, 16.5, 16.8, 15.7, 15.5],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Central Government Debt\",\n      \"unit\": \"Percent of GDP\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Central Government Debt\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [27.2, 26.3, 26.7, 27.4, 28.0, 28.6, 29.1, 29.6, 29.9],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Current Account Balance\",\n      \"unit\": \"Percent of GDP\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Current account balance\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [3.1, 2.9, 4.7, 3.5, 2.8, 2.2, 1.6, 1.0, 0.4],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Remittances\",\n      \"unit\": \"Percent of GDP\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"of which: remittances\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [19.0, 19.0, 20.7, 20.3, 19.4, 18.6, 17.7, 16.9, 16.1],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Central Government Overall Balance\",\n      \"unit\": \"Percent of GDP\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Overall balance\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031],\n      \"values\": [-1.3, -1.0, -1.9, -2.7, -2.6, -2.6, -2.6, -2.6, -2.6],\n      \"first_projection_year\": 2025\n    },\n    {\n      \"series\": \"Net International Reserves (Months of Imports)\",\n      \"unit\": \"Months of next-year NFGS imports\",\n      \"table\": \"Table 1. Guatemala: Selected Economic and Social Indicators\",\n      \"row_label\": \"Stock in months of next-year NFGS imports\",\n      \"years\": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030],\n      \"values\": [6.7, 7.2, 8.8, 8.9, 8.7, 8.2, 7.7, 7.2],\n      \"first_projection_year\": 2025\n    }\n  ]\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 204.13,
+    "role": "extract"
+  },
+  "2725327871b53197d44538a536ca0f6c25580edd9a5a2729d353600793082965": {
+    "text": "{\n  \"gdp_growth_forecast_pct\": {\n    \"verdict\": \"correct\",\n    \"correct_value\": null,\n    \"explanation\": \"The source quote and table confirm that 2026 real GDP growth is projected at 3.8 percent.\"\n  },\n  \"headline_inflation_rate_pct\": {\n    \"verdict\": \"correct\",\n    \"correct_value\": null,\n    \"explanation\": \"The source quote explicitly states headline inflation increased to 2.9 percent y/y in May.\"\n  },\n  \"central_bank_policy_rate_pct\": {\n    \"verdict\": \"correct\",\n    \"correct_value\": null,\n    \"explanation\": \"The source quote states that cuts lowered the policy rate to 3.5 percent by February 2026.\"\n  },\n  \"non_performing_loan_ratio\": {\n    \"verdict\": \"correct\",\n    \"correct_value\": null,\n    \"explanation\": \"The source quote confirms NPLs stood at 2.4 percent at end-2025.\"\n  },\n  \"unemployment_rate_pct\": {\n    \"verdict\": \"fallback_justified\",\n    \"correct_value\": null,\n    \"explanation\": \"The report does not provide an unemployment rate figure, making the fallback justified.\"\n  },\n  \"tier_1_capital_ratio\": {\n    \"verdict\": \"fallback_justified\",\n    \"correct_value\": null,\n    \"explanation\": \"The report does not state a specific Tier 1 capital ratio (it provides regulatory capital to risk-weighted assets as 15.5% in Table 5, but not Tier 1 explicitly), making the fallback justified.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 2.06,
+    "role": "judge"
+  },
+  "a0389cfcdb7e8137d12e02696e1993bbf31e9d60b77d27f5e24a1e0615407867": {
+    "text": "To safeguard financial sector resilience, the IMF recommends strengthening regulations and supervision, bolstering supervisory capacity, and continuing investments in cybersecurity resilience [chunk 6]. Specifically regarding banking law and regulation, the report recommends revamping the 2002 Law on Banks and Financial Groups and adopting IFRS accounting to improve transparency and comparability [chunk 6]. Additionally, a gradual transition to expected loss provisioning is ongoing alongside these financial stability efforts [chunk 43].",
+    "model": "gemini-3.5-flash",
+    "latency": 5.86,
+    "role": "extract"
+  },
+  "ab1e51da8f899b205a24914d23283dda2ee11d46c1e106052edc7364763ea04b": {
+    "text": "Inflationary expectations remain well anchored and close to Banguat's target of 4 percent ±1 percentage point [chunk 18, chunk 38]. The outlook is driven by price increases in food, hospitality, and education, as well as volatility in fuel prices, which spiked to 3.2 percent in April 2026 before decelerating to 2.9 percent due to government subsidies [chunk 18, chunk 20]. However, significant uncertainty remains regarding future oil price developments and other external factors [chunk 38].",
+    "model": "gemini-3-flash-preview",
+    "latency": 3.45,
+    "role": "extract"
+  },
+  "7262875b3cfcce09391dac9b1e0591695391be066f022f6c9a3d4f25e9852a66": {
+    "text": "Debt sustainability stress tests include a contingent stress scenario that models a one-time increase in the stock of debt from 27 to 37 percent of GDP [chunk 126]. Long-term risks are also evaluated against potential pressures from climate exposure and persistent infrastructure and social spending needs [chunk 115]. The retrieved context does not provide the specific numerical assumptions for all individual stress test scenarios, though it notes that debt dynamics remain resilient under them [chunk 114, chunk 126].",
+    "model": "gemini-3-flash-preview",
+    "latency": 4.88,
+    "role": "extract"
+  },
+  "f91958d0ab063cea204082562291917cb4e165af3c5a48b964d02cdc45ea272e": {
+    "text": "A severe 2026–27 El Niño poses a significant risk to Guatemala's near-term economic outlook due to the country's high vulnerability to climate shocks [chunk 3, chunk 14, chunk 24, chunk 25]. According to the authorities, a severe El Niño is expected to mostly impact prices, likely in 2027 [chunk 25]. However, it is anticipated to have a limited impact on overall economic activity [chunk 25].",
+    "model": "gemini-3.5-flash",
+    "latency": 55.4,
+    "role": "extract"
+  },
+  "1e9d748e6fe7f0bfa382dc2b0a9618c7f8c4dc32e8fc3da0b0799d7c21abd5b8": {
+    "text": "In 2025, Banguat sterilized a record GTQ9.2 billion, which represented 1 percent of GDP [chunk 19]. This sterilization was carried out as part of Banguat's active management of quetzal and FX liquidity, mirroring record FX purchases made by the central bank [chunk 18, chunk 19].",
+    "model": "gemini-3.5-flash",
+    "latency": 24.91,
+    "role": "extract"
+  },
+  "23235f2a4ddb89d4e698351445982cabc9580aa5f92f38449f1046d4b1ec0051": {
+    "text": "Oil price shocks transmit meaningfully to inflation in Guatemala, exhibiting a systematically stronger response than regional peers [chunk 54]. Baseline estimates show that a 50 percent increase in global oil prices raises prices by about 1 percentage point after 12 months and 1.2 percentage points after 18 months [chunk 54]. The pass-through is particularly strong for large positive shocks and supply-driven increases, though historical transmission reflects the dampening effects of past fiscal mitigation measures [chunk 54, chunk 56].",
+    "model": "gemini-3-flash-preview",
+    "latency": 3.51,
+    "role": "extract"
+  },
+  "a183a2023c6837d38096f190d907f2e6cf6a8b9e3eb9305a48f872c2e4bc8d00": {
+    "text": "Not found in the retrieved context.",
+    "model": "gemini-3.5-flash",
+    "latency": 25.83,
+    "role": "extract"
+  },
+  "8a9887af68208e8066757d77ddab0ed00a6766109b4f3f6223fee72af709df7a": {
+    "text": "{\n  \"bank_regulation\": [\n    \"What are the staff's recommendations regarding the prudential framework, loan-loss provisioning, and the Banking and Financial Groups Law?\",\n    \"Assess the IMF's policy advice on financial sector supervision, credit risk coverage, and legislative reforms for the Guatemalan banking system.\",\n    \"What structural reforms are suggested for the regulatory environment, specifically concerning capital adequacy and the legal framework for financial institutions?\"\n  ],\n  \"inflation_outlook\": [\n    \"Does the staff project headline inflation to remain within the central bank's tolerance band, and what are the primary determinants of price pressures?\",\n    \"Analyze the medium-term inflation forecast relative to the Banguat target range and the underlying factors influencing consumer price dynamics.\",\n    \"What is the outlook for price stability in Guatemala, and how do supply-side or demand-side shocks impact the inflation trajectory?\"\n  ],\n  \"debt_stress_tests\": [\n    \"Detail the macro-fiscal scenarios and sensitivity analysis parameters employed in the Debt Sustainability Analysis (DSA).\",\n    \"What specific contingent liability shocks or growth decelerations are modeled in the public debt risk assessment?\",\n    \"Identify the baseline assumptions and adverse shock calibrations used to evaluate Guatemala's fiscal solvency and debt-to-GDP path.\"\n  ],\n  \"el_nino\": [\n    \"How do ENSO-related weather patterns impact agricultural output and macroeconomic stability in Guatemala?\",\n    \"What are the potential downside risks to GDP growth and food security stemming from El Niño Southern Oscillation events?\",\n    \"Evaluate the vulnerability of the Guatemalan economy to climate-related shocks, specifically the El Niño phenomenon.\"\n  ],\n  \"sterilisation\": [\n    \"What was the volume of open market operations conducted by the central bank to absorb excess liquidity during the 2025 period?\",\n    \"Discuss the scale and rationale behind Banguat's monetary absorption measures and the issuance of term deposits in 2025.\",\n    \"Quantify the sterilization efforts undertaken by the Bank of Guatemala to manage the monetary base and control inflationary pressures in 2025.\"\n  ],\n  \"oil_passthrough\": [\n    \"What is the estimated elasticity of domestic consumer prices to fluctuations in international fuel and energy costs?\",\n    \"Assess the magnitude of the second-round effects of global petroleum price volatility on Guatemala's headline CPI.\",\n    \"To what extent do changes in world oil prices transmit to the domestic price level according to IMF staff estimates?\"\n  ],\n  \"tier1_trap\": [\n    \"What are the reported core equity Tier 1 (CET1) levels for the domestic banking system?\",\n    \"Provide the latest data on the high-quality capital buffers maintained by financial institutions in Guatemala.\",\n    \"How does the Tier 1 capital-to-risk-weighted assets ratio compare across the Guatemalan banking sector in the recent Financial Soundness Indicators (FSIs)?\"\n  ]\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 7.9,
+    "role": "extract"
+  },
+  "ed273491b3515fd480709db4dbc3f5b2e77ca8b6444ac176d9c0fd845fbb6393": {
+    "text": "The IMF recommends strengthening regulations, supervision, and supervisory capacity—especially for banks with large exposures—and revamping the 2002 Law on Banks and Financial Groups to align it with international regulatory, supervisory, and crisis management standards [chunk 6, chunk 41, chunk 42, chunk 57, chunk 132]. Regarding provisioning and risk management, the IMF notes that continuing the gradual shift to expected loss provisioning will increase system resilience [chunk 42]. Additionally, it advises that the phased implementation of the Credit Risk Management Regulation should be accompanied by strengthened supervisory oversight [chunk 42].",
+    "model": "gemini-3.5-flash",
+    "latency": 11.41,
+    "role": "extract"
+  },
+  "515109833b23b7901e3b0f9fd3a8b278ed4e8a4bbc0c032f4fae40c1525c1f75": {
+    "text": "Headline inflation recently remained below Banguat's target band of 4% ± 1%, though the provided context does not explicitly state whether it is expected to stay within the target going forward [chunk 131]. The inflation outlook is primarily driven by global oil price changes and the degree of pass-through from oil prices to headline inflation [chunk 53, chunk 38]. Additionally, well-anchored inflation expectations and temporary fuel subsidies have helped contain second-round inflationary effects [chunk 38, chunk 40].",
+    "model": "gemini-3.5-flash",
+    "latency": 15.14,
+    "role": "extract"
+  },
+  "1bb78c9a320f103967714477a7fb80fc3ee7da150c65359fc4d5f0dc758608eb": {
+    "text": "The debt sustainability stress tests incorporate modules and scenarios covering contingent liabilities, natural disasters, banking crises, commodity prices, and exchange rate shocks [chunk 124]. Specifically, the contingent stress scenario models a one-time increase in the stock of public debt from 27 to 37 percent of GDP [chunk 126]. The retrieved context does not detail the specific parameters or numerical assumptions for the other individual shock scenarios.",
+    "model": "gemini-3.5-flash",
+    "latency": 15.01,
+    "role": "extract"
+  },
+  "4fbc4f4a8fe6b037adaa256a43a43abdeec40b95b8b5591ba120c0b7b427ae98": {
+    "text": "A severe 2026–27 El Niño poses considerable near-term risks to Guatemala's economic outlook due to the country's high vulnerability to climate shocks [chunk 24, chunk 25]. According to the authorities' views, a severe El Niño is expected to primarily impact prices, likely in 2027, while having a limited impact on overall economic activity [chunk 25].",
+    "model": "gemini-3.5-flash",
+    "latency": 13.96,
+    "role": "extract"
+  },
+  "ba7bf14b4ef3a6c3631abbb766bb08f9697335981b9fa3d45e71a084edaa7488": {
+    "text": "In 2025, Banguat sterilized a record GTQ 9.2 billion (1 percent of GDP) to actively manage quetzal and foreign exchange (FX) liquidity [chunk 18, chunk 19]. This sterilization mirrored the central bank's record-high net FX purchases [chunk 18, chunk 19]. These high FX interventions aimed to limit appreciation pressures from large remittance inflows, which contributed to a structural liquidity surplus in the banking system [chunk 21, chunk 39].",
+    "model": "gemini-3.5-flash",
+    "latency": 5.9,
+    "role": "extract"
+  },
+  "2a3f9fbb7b88ca506c2e579b435f31499395e30dfe01cbf130f63d35b113f545": {
+    "text": "Oil price shocks transmit meaningfully to inflation in Guatemala, with the country exhibiting a systematically stronger response than its regional peers [chunk 54]. A 50 percent increase in global oil prices is estimated to raise prices by approximately 1 percentage point after 12 months and 1.2 percentage points after 18 months [chunk 54]. This pass-through is nonlinear and asymmetrical, as large positive shocks generate stronger inflationary responses than small or negative ones, and supply-driven shocks can double the effect on the CPI [chunk 54, chunk 55, chunk 56].",
+    "model": "gemini-3-flash-preview",
+    "latency": 11.72,
+    "role": "extract"
+  },
+  "2ccb015ba514ae20ad22840c0d9d14acd0dfafc8c0d660aebc4f8c0c91c97ead": {
+    "text": "Not found in the retrieved context.",
+    "model": "gemini-3.5-flash",
+    "latency": 9.21,
+    "role": "extract"
+  },
+  "db57753b514da3d1f5b968b682eecca253d385fe730b675442081a366501a95e": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer A is fully faithful to its provided context and addresses all parts of the question (bank regulation, provisioning, and the banking law) completely and accurately based on the text.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 4,\n    \"explanation\": \"Answer B is faithful to its provided context, but it is slightly less complete regarding provisioning, missing the specific detail about the Credit Risk Management Regulation mentioned in the broader text.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 82.72,
+    "role": "judge"
+  },
+  "20eb9fcee9693663bfc834ede11c1d0bed1ccc450852e45bd7a18a3da7a3203a": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 3,\n    \"explanation\": \"Answer A is fully faithful to its context. It notes that the context lacks explicit projections regarding whether inflation will stay within target going forward, and correctly identifies oil prices and expectations as key drivers based on its retrieved chunks. However, it misses the detailed breakdown of recent inflation components found in the broader evidence.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer B is entirely faithful to its provided context and utilizes the available evidence comprehensively. It addresses whether expectations/inflation are close to the target, mentions the specific drivers (food, hospitality, education, fuel prices, and subsidies), and notes the uncertainties surrounding oil prices.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 79.75,
+    "role": "judge"
+  },
+  "5f6afeeabfb4e2e6b4909c4f5112f907e3aea9def8fed36907e74ae0ab1f38d8": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 3,\n    \"explanation\": \"Answer A is fully faithful to its context, accurately identifying the contingent stress scenario details and long-term risk mentions. However, it is less complete than Answer B because its context did not include the full list of stress test categories (banking crisis, commodity prices, exchange rate, natural disaster, etc.) which were present in chunk 124 of the overall evidence.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer B is completely faithful to its provided context and fully addresses the question by listing the specific modules and shocks used in the debt sustainability stress tests (contingent liabilities, natural disasters, banking crises, commodity prices, exchange rate shocks, and the specific debt increase percentage).\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 71.71,
+    "role": "judge"
+  },
+  "910fb9d092054601c42024f5bbcce796e14f72625db00ad8fe38c41f1efa1416": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer A is fully faithful to the provided context and completely answers the question by stating that a severe El Niño poses considerable risks to the near-term outlook, will mostly impact prices (likely in 2027), and has a limited impact on overall economic activity.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer B is also fully faithful to the context and addresses the question accurately, capturing both the price impact and the limited effect on economic activity mentioned in the text.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 35.48,
+    "role": "judge"
+  },
+  "66d73ea16b65b6c17dfa5fd0175f07ce939e400f96ac97d70c9110f462e3bdda": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer A is fully faithful to the provided context and correctly extracts both the amount sterilized (GTQ 9.2 billion / 1 percent of GDP) and the reasons why (managing quetzal and FX liquidity, mirroring FX purchases, and addressing structural liquidity surplus caused by high remittance inflows and FX interventions).\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 3,\n    \"explanation\": \"Answer B is faithful to the context regarding the amount sterilized, but it is less complete than Answer A because it omits the underlying reasons (such as managing the structural liquidity surplus driven by remittance inflows and FX purchases) mentioned in the broader text.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 25.84,
+    "role": "judge"
+  },
+  "c146c62eed8186f8408228043bf279c56f60d1462914cf2939ce9a862ffe6afd": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer A accurately reflects the context provided, citing specific metrics (1 percentage point after 12 months, 1.2 percentage points after 18 months for a 50% increase) and correctly noting the nonlinear and asymmetrical characteristics as well as supply-driven shock impacts from chunks 54, 55, and 56.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer B is fully faithful to its provided context and covers the main points regarding the strength of the pass-through, the specific baseline metrics for a 50% increase, the impact of large positive and supply-driven shocks, and the role of past fiscal mitigation.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 30.71,
+    "role": "judge"
+  },
+  "7515cc35d678b82ee9a16eaf5abf8568a635b0f716d56218ba1da6ca4a0696e3": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 1,\n    \"explanation\": \"The context does not contain information about the Tier 1 capital ratio of Guatemalan banks (it mentions statutory capital to risk-weighted assets, but not Tier 1 specifically). Therefore, Answer A correctly states that it is not found.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 1,\n    \"explanation\": \"The provided context does not contain information regarding the Tier 1 capital ratio. Answer B correctly indicates that the information is not found in the context.\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 56.49,
+    "role": "judge"
+  },
+  "c21c1ecba0ac049963c9e4e44775721939ec66e919bf9ea3583a933c83a40f30": {
+    "text": "{\n  \"informality\": [\n    \"What is the estimated size of the informal labor market in Guatemala?\",\n    \"What percentage of the workforce is employed in the informal sector?\",\n    \"Assess the prevalence of non-formal employment within the Guatemalan labor force.\"\n  ],\n  \"tax_target\": [\n    \"What is the government's projected tax-to-GDP ratio goal for the year 2030?\",\n    \"Identify the 2030 fiscal revenue objectives established by the Guatemalan authorities.\",\n    \"What are the long-term domestic revenue mobilization targets for 2030?\"\n  ],\n  \"gafilat\": [\n    \"Schedule and conducting body for Guatemala's upcoming anti-money laundering assessment.\",\n    \"When is the next GAFILAT peer review of Guatemala's AML/CFT framework?\",\n    \"Timeline for the next mutual evaluation report (MER) on Guatemala's financial integrity standards.\"\n  ],\n  \"remittances\": [\n    \"What was the share of personal transfers in Guatemala's GDP for 2025?\",\n    \"Quantify the 2025 remittance inflows as a percentage of gross domestic product.\",\n    \"How did the volume of worker remittances compare to total economic output in 2025?\"\n  ],\n  \"gfn\": [\n    \"What is the total public sector gross financing requirement?\",\n    \"Estimate the sovereign's aggregate funding needs for the current fiscal period.\",\n    \"What are the projected gross financing needs (GFN) for the central government?\"\n  ],\n  \"contingent_shock\": [\n    \"Analyze the impact of a contingent liability shock on the public debt-to-GDP trajectory.\",\n    \"How does the debt sustainability analysis (DSA) respond to the realization of contingent liabilities?\",\n    \"What is the projected path of general government debt under the contingent liability stress test?\"\n  ],\n  \"growth_2025\": [\n    \"What was the real GDP growth rate in 2025 and its primary components?\",\n    \"Identify the main drivers of economic expansion during the 2025 fiscal year.\",\n    \"What factors contributed to the 2025 output growth according to the staff report?\"\n  ],\n  \"fed_rate\": [\n    \"What is the interest rate differential between the Bank of Guatemala and the US Fed?\",\n    \"Compare the leading monetary policy rate of Banguat with the Federal Funds Rate.\",\n    \"Assess the alignment of Guatemala's policy rate with US monetary policy tightening or easing.\"\n  ],\n  \"secondary_markets\": [\n    \"What are the IMF's recommendations regarding legislation for secondary securities markets?\",\n    \"Staff views on the development of a legal framework for secondary market trading.\",\n    \"Discuss the IMF's stance on the proposed Law on Securities and Public Credit Markets.\"\n  ],\n  \"ecl_phase_in\": [\n    \"What is the timeline for the full implementation of expected credit loss (ECL) accounting standards?\",\n    \"When will the transition to IFRS 9-style provisioning requirements be completed?\",\n    \"Identify the deadline for banks to reach 100% compliance with new provisioning rules.\"\n  ],\n  \"micivi\": [\n    \"How much of the allocated budget has the Ministry of Communications, Infrastructure, and Housing (MICIVI) spent?\",\n    \"What is the absorption capacity and expenditure rate of MICIVI?\",\n    \"Assess the efficiency of capital spending execution by the infrastructure ministry.\"\n  ],\n  \"ifrs_2030\": [\n    \"What is the target date for the banking sector's migration to International Financial Reporting Standards?\",\n    \"When will the convergence of local accounting standards with IFRS be finalized for financial institutions?\",\n    \"Timeline for the mandatory adoption of IFRS by the Guatemalan banking system.\"\n  ]\n}",
+    "model": "gemini-3-flash-preview",
+    "latency": 9.59,
+    "role": "extract"
+  },
+  "0bd85ef969f8b73342c32d9dba4a5075284cc100e7a039ca835a63db215dbcdb": {
+    "text": "The IMF recommends revamping the 2002 Law on Banks and Financial Groups to align it with international standards for regulatory, supervisory, and crisis management practices [chunk 42, chunk 51, chunk 132]. To safeguard stability, the IMF advises strengthening supervisory capacity—especially for banks with large exposures—and adopting IFRS accounting to improve transparency [chunk 6, chunk 51, chunk 132]. Furthermore, the IMF supports a gradual shift to expected loss provisioning and notes that the implementation of the Credit Risk Management Regulation should be accompanied by strengthened oversight [chunk 42, chunk 43].",
+    "model": "gemini-3-flash-preview",
+    "latency": 18.24,
+    "role": "extract"
+  },
+  "74f0a73974661d9cf850e9f50b0c7e9272956540d6034270cbb27b41e30b5976": {
+    "text": "{\n  \"A\": {\n    \"faithfulness\": 5,\n    \"completeness\": 5,\n    \"explanation\": \"Answer A accurately reflects the context provided, mentioning recommendations regarding the 2002 Law on Banks and Financial Groups, IFRS accounting, supervisory capacity, and expected loss provisioning.\"\n  },\n  \"B\": {\n    \"faithfulness\": 5,\n    \"completeness\": 4,\n    \"explanation\": \"Answer B is faithful to its context and addresses the main points regarding banking regulation, provisioning, and the 2002 banking law, though it slightly misses some specific details found in other chunks (like specific bank exposure mentions captured in A).\"\n  }\n}",
+    "model": "gemini-3.5-flash-lite",
+    "latency": 21.52,
+    "role": "judge"
+  }
+}
