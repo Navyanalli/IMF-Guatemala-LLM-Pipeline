@@ -1,0 +1,7 @@
+# outputs are recreated when the notebook runs
+imf_outputs/
+.ipynb_checkpoints/
+# never commit the written report or secrets
+*Report*.pdf
+*report*.docx
+.env
